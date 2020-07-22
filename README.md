@@ -1,0 +1,2 @@
+# syakunetsu
+discord bot
