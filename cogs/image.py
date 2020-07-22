@@ -9,7 +9,7 @@ import urllib.error
 import urllib.request
 import json
 
-API_KEY = "AIzaSyBivRkNElXVvMmYgiVAxaL2qJXndr9_d3k"
+API_KEY = "******************"
 ENDPOINT_URL = 'https://vision.googleapis.com/v1/images:annotate'
 
 # コグとして用いるクラスを定義。
