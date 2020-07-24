@@ -11,14 +11,14 @@ import datetime
 import asyncio
 
 # Twitter APIのキーとトークン
-API_KEY='ElYsGDeJCZ2PiPSHCOChPz4L5'
-API_SECRET='zhbnk3oIDgt5y7R1xWmi2r0MojQ9bDbsYVR5OCZMARhoPGBnew'
-TOKEN_KEY='269333487-LCPvoHSuHeo3n3zoUL3q6xjUtrbl2T89Cmzy6bPF'
-TOKEN_SECRET='ZOtFiHAQo2SsXdFR6dWX7rcCOnlBcQbIWKrJLKlWKy382'
+API_KEY='******************************'
+API_SECRET='******************************'
+TOKEN_KEY=='******************************'
+TOKEN_SECRET=='******************************'
 
 # チャンネルID
-CHANNEL_ID_TEST = [704946059448942641,723226257306812497]
-CHANNEL_ID_NEWS = [718427190982869053,721027828023427093]
+CHANNEL_ID_TEST = [******************,******************]
+CHANNEL_ID_NEWS = [******************,******************]
 
 # コグとして用いるクラスを定義。
 class Twitter(commands.Cog):
