@@ -166,6 +166,15 @@ class Image(commands.Cog):
                 elif 'Sushi' in desc_list:
                     reply = "🍣🍣🍣🍣🍣へいお待ち！"
                     return await message.channel.send(reply)
+                elif 'Pizza' in desc_list:
+                    reply = "🍕ばかり食ってると太るYo(威圧)"
+                    return await message.channel.send(reply)
+                elif 'Yakiniku' in desc_list:
+                    reply = "おまえも灼熱の業火で焼いてやろうか？"
+                    return await message.channel.send(reply)
+                elif 'Japanese cuisine' in desc_list:
+                    reply = "日本人はやっぱ和食っしyo！"
+                    return await message.channel.send(reply)
 
 
 # Bot本体側からコグを読み込む際に呼び出される関数。
